@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5be53cd8_002D18de_002D4fd8_002D9bb8_002Dadf555c78462/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TempCalculatorTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/sofia.rokkones/Projects/Code Is King/Temperature/TempReader/TempReaderTest" Presentation="&amp;lt;TempReaderTest&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f28229b8_002Dd533_002D44b8_002D85f0_002D1cfc47e8e5ba/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Should_be_correct_calculation_of_warmest_day" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::220B97F4-F24A-4A0C-A816-5C29B2AC16C7::.NETCoreApp,Version=v3.1::TempReaderTest.AverageTempTest&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;220B97F4-F24A-4A0C-A816-5C29B2AC16C7/f:TempCalculatorTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

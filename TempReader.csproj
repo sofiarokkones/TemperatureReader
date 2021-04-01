@@ -5,4 +5,19 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Compile Remove="TempReaderTest\**" />
+      <Compile Remove="TemperatureReaderTest\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="TempReaderTest\**" />
+      <EmbeddedResource Remove="TemperatureReaderTest\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="TempReaderTest\**" />
+      <None Remove="TemperatureReaderTest\**" />
+    </ItemGroup>
+
 </Project>
